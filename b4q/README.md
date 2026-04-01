@@ -1,8 +1,12 @@
 ## Firmware Infos
 
+> [!IMPORTANT]
+> This Firmware is the Last Firmware that Allows a Unlocked Bootloader. <br>
+> Any newer Firmware Version should not be used.
+
 - **Device:** Samsung Galaxy Z Flip 4
 - **Region:** EUX (Europe)
-- **Version:** `F721BXXSAHYFD` / `BOOT.MXF.2.0-00805-WAIPIO-1`
+- **Version:** `F721BXXSAIZA1` / `BOOT.MXF.2.0-00805-WAIPIO-1`
 
 ## Patches / Fixes
 

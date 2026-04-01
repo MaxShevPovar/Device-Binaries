@@ -1,8 +1,12 @@
 ## Firmware Infos
 
+> [!IMPORTANT]
+> This Firmware is the Last Firmware that Allows a Unlocked Bootloader. <br>
+> Any newer Firmware Version should not be used.
+
 - **Device:** Samsung Galaxy Tab S8+ 5G
 - **Region:** EUX (Europe)
-- **Version:** `X806BXXS9EYK1` / `BOOT.MXF.2.0-00805-WAIPIO-1`
+- **Version:** `X806BXXS9EZA3` / `BOOT.MXF.2.0-00805-WAIPIO-1`
 
 ## Patches / Fixes
 
